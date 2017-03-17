@@ -1,4 +1,4 @@
-(defproject re-native/action-sheet "6.0.2"
+(defproject re-native/action-sheet "0.0.1-SNAPSHOT"
   :dependencies [[org.clojure/clojure "1.9.0-alpha10"]
                  [org.clojure/clojurescript "1.9.473"]
                  [reagent "0.6.0" :exclusions [cljsjs/react cljsjs/react-dom cljsjs/react-dom-server]]
