@@ -13,3 +13,5 @@ In your re-natal project:
 npm i react-native-fcm@6.0.2 --save
 re-natal use-component react-native-fcm
 ```
+
+Then follow the instructions on the react-native-fcm github page
